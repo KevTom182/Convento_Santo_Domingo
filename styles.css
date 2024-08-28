@@ -1,0 +1,36 @@
+body {
+  background-color: rgb(27, 113, 184);
+}
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 50px;
+}
+.portada img {
+  height: 500px;
+}
+.titulo p {
+  font-family: "Bauhaus 93";
+  font-size: 50px;
+  color: white;
+}
+.enlace p {
+  font-family: "Cooper Black";
+  font-size: 20px;
+}
+.subtitulo p {
+  font-family: "Brush Script MT";
+  font-size: 40px;
+  color: white;
+}
+.resumen p {
+  font-family: "Comic Sans MS";
+  font-size: 20px;
+  color: white;
+  margin: 50px;
+  text-align: justify;
+}
+.resumen img {
+  height: 300px;
+}
